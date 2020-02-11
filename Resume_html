@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Resume</title>
+<style>
+body{
+background-color: lightblue}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+td {
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<img src="download.jpg" width="90" height="100" align="right">
+<h2> Dudam Shubhangi</h2>
+
+<h4>Contact no:  8624020071</h4> 
+<h4>email: <a href="https://www.geeksforgeeks.org/set-cellpadding-and-cellspacing-in-css/">dudamshubhangi1210@gmail.com </a> 
+
+<br>
+<br>
+
+<table style="width:55%" cellspacing="30px">
+<h4><th> Degree/std</th>
+<th> Collage/School</th>
+<th> University/Board</th>
+<th> Year of Passing</th>
+<th>Percentage</th><h4>
+
+<tr cellspacing="0">
+<td>TE</td>
+<td>Walchand Institute of Technology</td>
+<td> Solapur University></td>
+<td>2018-2019</td>
+<td>9.05 CGPA</td>
+</tr>
+
+<tr>
+<td>Diploma</td>
+<td>Shri Siddheshwar Womens Polytechnic</td>
+<td> MSBTE></td>
+<td>2014-2017</td>
+<td>84.60%</td>
+</tr>
+
+<tr>
+<td>SSC</td>
+<td>S.R.Chandak English High School</td>
+<td> Pune Board></td>
+<td>2013-2014</td>
+<td>79</td>
+</tr>
+</table>
+
+<p> Additional Skills/Courses:
+<ul> <li> languages: C,C++,Java,Android</li>
+	<li> Operating Sysytem : Windows XP/7/8/10</li>
+	 <li> Database : SQL,MYSQL</li>
+	<li> Web Technology : HTML ,PHP </li>
+	<li> Other : MS-Word, MS-Excel </li>
+</ul>
+
+<br>
+<b>Project </b>
+<br>
+<b>TE</b>
+<ul>
+<li>Title : "AR Watch" </li>
+<li>Duration : 6 Months</li>
+<li>Summary : The main purpose of this project is to reduce manual work of shopkeeper. 
+Here user scan the surface and detect the marker  plots and tries various models
+of watch using template.</li>
+</ul>
+
+<br>
+<b>Diploma:</b>
+<ul>
+<li>Title :  Web application Based On “Gesture Recognition”</li>
+<li>Duration : 6 Months</li>
+<li>Summary : The purpose of the project was to open particular application based on the gesture. 
+</li>
+</ul>
+
+<b>Personality Skill:</b>
+<ul>
+<li>Good Team leader</li>
+<li>Very Punctual</li>
+<li>Honest</li>
+<li>Self-motivated</li>
+</ul>
+<br>
+<b>Hobbies and Interest:</b>
+<ul>
+<li>Listening Music</li>
+<li>Dancing.</li>
+</ul>
+<br>
+
+</body>
+</html>
